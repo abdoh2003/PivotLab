@@ -64,7 +64,7 @@ Configure Windows 7 and Metasploitable 2 with a single network adapter:
 | **Windows 7 Target** | eth0      | 10.0.3.4     |
 |                      | eth1      | (none)       |
 
-![Network Diagram](images/network_diagram.png)
+![Network Diagram](network_overall.png)
 
 ---
 
