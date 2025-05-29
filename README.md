@@ -38,7 +38,7 @@ In your virtualization platform (e.g., VirtualBox), configure the pivot machine:
 - Adapter 1: NAT or Bridged (connects to the attacker)
 - Adapter 2: Host-only or NAT network (connects to internal targets)
 
-![Pivot Network Setup](images/pivot_machine_network.png)
+![Pivot Network Setup](pivot_machine_network.png)
 
 ---
 
