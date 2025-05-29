@@ -75,6 +75,7 @@ Test if each machine can communicate with the expected hosts:
 - ✅ From **Attacker → Pivot**: `ping 10.0.2.10` — should work
   ![Pivot Network Setup](attackerToPivot.png)
 - ❌ From **Attacker → Internal Target**: `ping 10.0.3.4` — should **fail**
+  ![Pivot Network Setup](attackerToInternal.png)
 - ✅ From **Pivot → Attacker**: `ping 10.0.2.9` — should work
 - ✅ From **Pivot → Internal Target**: `ping 10.0.3.4` — should work
 
