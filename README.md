@@ -27,7 +27,7 @@ This setup simulates a scenario where an attacker must compromise the pivot mach
 
 ### a) Create an Isolated Network (e.g., NAT Network)
 
-![Create NAT Network](images/create_nat_network.png)
+![Create NAT Network](network_creation.png)
 
 ---
 
