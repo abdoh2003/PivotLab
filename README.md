@@ -77,7 +77,9 @@ Test if each machine can communicate with the expected hosts:
 - ❌ From **Attacker → Internal Target**: `ping 10.0.3.4` — should **fail**
   ![Pivot Network Setup](attackerToInternal.png)
 - ✅ From **Pivot → Attacker**: `ping 10.0.2.9` — should work
+  ![Pivot Network Setup](pivotToAttacker.png)
 - ✅ From **Pivot → Internal Target**: `ping 10.0.3.4` — should work
+  ![Pivot Network Setup](pivotToInternal.png)
 
 > **Tip:** Disable Windows Firewall to allow ICMP/ping replies.
 
