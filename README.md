@@ -49,7 +49,7 @@ Configure Windows 7 and Metasploitable 2 with a single network adapter:
 - Connect each to the **same internal network** as the pivot machine’s second adapter.
 - These machines **should not be reachable** directly by the attacker.
 
-![Target Network Setup](images/internal_targets_network.png)
+![Target Network Setup](internal_windows7.png)
 
 ---
 
