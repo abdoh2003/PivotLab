@@ -82,6 +82,7 @@ Test if each machine can communicate with the expected hosts:
   ![Pivot Network Setup](pivotToInternal.png)
 
 > **Tip:** Disable Windows Firewall to allow ICMP/ping replies.
+![Pivot Network Setup](disable_firewall.png)
 
 ---
 
