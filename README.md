@@ -7,7 +7,7 @@ Pivoting is an essential skill in penetration testing, allowing attackers to mov
 ---
 
 ## Lab Topology Overview
-![Pivot Network Setup](PivotLab/topology.png)
+![Pivot Network Setup](topology.png)
 We're going to build a lab that consists of:
 
 - **Attacker Machine** (e.g., Kali Linux)
